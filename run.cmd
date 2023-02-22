@@ -1,0 +1,1 @@
+python .\sortingnetwork.py -i .\exampleNet.txt --svg exampleNet.svg
